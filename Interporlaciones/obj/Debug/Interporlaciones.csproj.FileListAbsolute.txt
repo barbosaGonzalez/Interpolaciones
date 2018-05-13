@@ -1,0 +1,24 @@
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.exe.config
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Form1.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Properties.Resources.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.csproj.GenerateResource.Cache
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.exe
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.pdb
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Cuadratica.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Lagrange.resources
+C:\Users\Edsel\Dropbox\Projectos Visual C# 2012\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Lineal.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.exe.config
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.exe
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\bin\Debug\Interporlaciones.pdb
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.csprojResolveAssemblyReference.cache
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Cuadratica.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Form1.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Lagrange.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Lineal.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.Properties.Resources.resources
+C:\Users\Edsel\Documents\MEGA\C#\Programas C#\Interporlaciones\Interporlaciones\obj\Debug\Interporlaciones.csproj.GenerateResource.Cache
